@@ -79,17 +79,24 @@ Daemon and CLI open source → [winm2m/valet-fs](https://github.com/winm2m/valet
 </td>
 <td>
 
-**[Sidera — 사주와 별자리](https://apps.apple.com/kr/app/id6806914044)** · v1.4.0 · released 2026-09-03 · Lifestyle
+**[Sidera: Korean Astrology](https://apps.apple.com/us/app/id6806914044)** · v1.4.0 · released 2026-09-03 · Lifestyle
 **Contract development** — built end to end for a client and published under their App Store account.
 
-> "출생 차트를 결정론적으로 계산하고, 그 결과를 근거로 LLM이 해석해 주는 점성술 앱."
-> *(An astrology app that computes the natal chart deterministically and has an LLM interpret the
-> computed result.)*
+> "Sidera computes the sky and the four pillars of the moment you were born, and talks with you
+> about what is actually there."
+>
+> "**The AI does not do the math.** Planetary positions and Saju pillars come from a deterministic
+> engine. The AI reads what was computed and interprets it. The same birth details always produce
+> the same chart."
+>
+> "**Nothing is hidden behind the answer.** You can open the raw Saju chart and the raw birth chart
+> in the app. … Tap the small number in an answer and you go straight to the placement that
+> sentence rests on."
 
 `Python` `FastAPI` `SQLAlchemy` `TypeScript` `Expo SDK 54` · `iOS`
-Source is the client's and stays private. The astronomy engine is dependency-free pure Python —
-an LLM cannot compute celestial positions and will hallucinate them, so the backend owns the
-calculation and the model only interprets its output.
+Two systems — Korean Saju and the Western birth chart — computed from the same birth data by a
+dependency-free pure-Python engine, with four house-division methods and true-solar-time options
+exposed to the user. Source is the client's and stays private.
 
 </td>
 </tr>
