@@ -61,9 +61,11 @@ Daemon and CLI open source → [winm2m/valet-fs](https://github.com/winm2m/valet
 </table>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/WinM2M/valet-fs/main/docs/media/memory-not-disk.png" width="440">
-<img src="https://raw.githubusercontent.com/WinM2M/valet-fs/main/docs/media/valet-stand.png" width="440">
-<br>
+<a href="https://youtu.be/dhSXAzI3Idg">
+<img src="https://i.ytimg.com/vi/dhSXAzI3Idg/maxresdefault.jpg" width="620"><br>
+<b>▶ Your AI Agent Has Every Key You Own — Take Them Back</b>
+</a>
+<br><br>
 <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/fc/d8/2efcd88e-938f-4f21-c68d-fe81754d9d93/01-home.png/320x480bb.jpg" width="185">
 <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/88/1b/a9881b94-77be-d3cb-1e9b-ca53c83eac10/02-session.png/320x480bb.jpg" width="185">
 <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/32/ae/5232aeb3-a943-00e9-9943-8f3bf74f1915/03-new-secret.png/320x480bb.jpg" width="185">
