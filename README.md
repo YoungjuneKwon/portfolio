@@ -80,15 +80,16 @@ Daemon and CLI open source → [winm2m/valet-fs](https://github.com/winm2m/valet
 <td>
 
 **[Sidera — 사주와 별자리](https://apps.apple.com/kr/app/id6806914044)** · v1.4.0 · released 2026-09-03 · Lifestyle
+**Contract development** — built end to end for a client and published under their App Store account.
 
 > "출생 차트를 결정론적으로 계산하고, 그 결과를 근거로 LLM이 해석해 주는 점성술 앱."
 > *(An astrology app that computes the natal chart deterministically and has an LLM interpret the
 > computed result.)*
 
 `Python` `FastAPI` `SQLAlchemy` `TypeScript` `Expo SDK 54` · `iOS`
-Source private. The astronomy engine is dependency-free pure Python — an LLM cannot compute
-celestial positions and will hallucinate them, so the backend owns the calculation and the model
-only interprets its output.
+Source is the client's and stays private. The astronomy engine is dependency-free pure Python —
+an LLM cannot compute celestial positions and will hallucinate them, so the backend owns the
+calculation and the model only interprets its output.
 
 </td>
 </tr>
